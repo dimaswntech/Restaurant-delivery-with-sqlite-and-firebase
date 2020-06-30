@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1024645034159",
+    "firebase_url": "https://food-order-b1987.firebaseio.com",
+    "project_id": "food-order-b1987",
+    "storage_bucket": "food-order-b1987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024645034159:android:60ab5d2ebba44330d3645a",
+        "android_client_info": {
+          "package_name": "com.re.rumahdahar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024645034159-j801hqmknebuqk0sr0n5dh61a9qoo5n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBovEQrrACUCeK36f8EXvq5lBdHIq6iVT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024645034159-j801hqmknebuqk0sr0n5dh61a9qoo5n0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
